@@ -1,6 +1,5 @@
 ## Note-making project
 To get started with the project, first clone the repository, and create a virtual environment.
-
 ```
 python -m virtualenv venv
 venv\scripts\activate
